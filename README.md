@@ -1,0 +1,1 @@
+# SecretRotatorAzureAD-SlackInt
